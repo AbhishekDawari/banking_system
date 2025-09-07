@@ -1,6 +1,3 @@
-
-# BankingSystem
- =======
 # Banking System - Java Swing Project
 
 ## Description
